@@ -61,12 +61,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheol2Y&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=cheol2Y&show_icons=true">
 
-![Cheol2Y's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=cheol2Y)
 
 <br>
-<!-- <p>🏆 Baekjoon solved rank 🏆</p>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kycasdzxc)](https://solved.ac/kycasdzxc) -->
 </div>
 <br>
 
