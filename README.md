@@ -7,12 +7,14 @@
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+	<img src="https://img.shields.io/badge/ApacheHadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white" />
+<!-- 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" /> -->
+	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
+	<img src="https://img.shields.io/badge/PostreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/apacheairflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" />
+	<img src="https://img.shields.io/badge/ApacheAirflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" />
 	<img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white" />
-	<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
+<!-- 	<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" /> -->
  	<br>
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 	<img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white" />
