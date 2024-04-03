@@ -23,9 +23,9 @@
 	<img src="https://img.shields.io/badge/ELK-005571?style=flat&logo=elasticsearch&logoColor=white" />
 	<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
 	<img src="https://img.shields.io/badge/Grafana-F26822?style=flat&logo=grafana&logoColor=white" />
-	<img src="https://img.shields.io/badge/ChromaDB-000000?style=flat&logo=ChromaDB&logoColor=white" />
+	<img src="https://img.shields.io/badge/ChromaDB-F7931E?style=flat&logo=ChromaDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=Neo4j&logoColor=white" />
-	<img src="https://img.shields.io/badge/Qdrant-4581C3?style=flat&logo=Qdrant&logoColor=white" />
+	<img src="https://img.shields.io/badge/Qdrant-FF3633?style=flat&logo=Qdrant&logoColor=white" />
 </div>
 <br>
 <div align=center>
