@@ -55,7 +55,7 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="">
+	<a href="https://tabby-minute-31c.notion.site/9d2fdcc5d250485f89666c841b55903a?pvs=4">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
 	<a href="(https://velog.io/@cheol2_y/posts)">
