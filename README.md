@@ -58,7 +58,7 @@
 	<a href="https://tabby-minute-31c.notion.site/9d2fdcc5d250485f89666c841b55903a?pvs=4">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
-	<a href="(https://velog.io/@cheol2_y/posts)">
+	<a href="https://velog.io/@cheol2_y/posts">
 		<img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white" />
 	<br>
 </div>
