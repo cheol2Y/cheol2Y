@@ -19,6 +19,10 @@
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 	<img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white" />
 	<img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/ELK-005571?style=flat&logo=elasticsearch&logoColor=white" />
+	<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
+	<img src="https://img.shields.io/badge/Grafana-F26822?style=flat&logo=grafana&logoColor=white" />
 </div>
 <br>
 <div align=center>
@@ -33,9 +37,7 @@
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
 	<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white" />
-	<img src="https://img.shields.io/badge/ELK-005571?style=flat&logo=elasticsearch&logoColor=white" />
-	<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
-	<img src="https://img.shields.io/badge/Grafana-F26822?style=flat&logo=grafana&logoColor=white" />
+
 </div>
 <br>
 <div align=center>
