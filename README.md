@@ -26,7 +26,7 @@
 	<img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=Neo4j&logoColor=white" />
 	<img src="https://img.shields.io/badge/Qdrant-FF3633?style=flat&logo=Qdrant&logoColor=white" />
 </div>
-<br>
+<!-- <br>
 <div align=center>
 	<p>🎈 Experience 🎈</p>
 </div>
@@ -38,7 +38,7 @@
 	<br>
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
-</div>
+</div> -->
 <br>
 <div align=center>
 	<p>🛠 Tools 🛠</p>
