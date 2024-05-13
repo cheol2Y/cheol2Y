@@ -1,6 +1,6 @@
 <div align=center>  
 	<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Cheol2%20GitHub!&fontSize=70&animation=twinkling" />
-</div>
+</div> 
 <div align=center> 
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms ✨</p>
