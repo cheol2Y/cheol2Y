@@ -6,7 +6,7 @@
 	<p>✨ Platforms ✨</p>  
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /> 
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />  
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
 	<img src="https://img.shields.io/badge/PostreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
 	<br>
