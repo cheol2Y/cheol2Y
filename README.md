@@ -7,29 +7,29 @@
 </div>
 
 <div align="center">
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />  
-	<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-	<img src="https://img.shields.io/badge/PostreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+	<img src="https://img.shields.io/badge/LLM-006400?style=for-the-badge&logo=openai&logoColor=white" />
+	<img src="https://img.shields.io/badge/LangChain-00A3E0?style=for-the-badge&logo=chainlink&logoColor=white" />
+	<img src="https://img.shields.io/badge/LangGraph-00856F?style=for-the-badge&logo=graph&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/ApacheHadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white" />
+	<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+	<img src="https://img.shields.io/badge/MCP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+	<br>
 	<img src="https://img.shields.io/badge/ApacheAirflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+	<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/PGVector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+	<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=Neo4j&logoColor=white" />
+	<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white" />
+	<br>
 	<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
- 	<br>
 	<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-	<img src="https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" />
 	<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-	<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-	<img src="https://img.shields.io/badge/Grafana-F26822?style=for-the-badge&logo=grafana&logoColor=white" />
-	<br>
-	<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white" />
-	<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=Neo4j&logoColor=white" />
-	<img src="https://img.shields.io/badge/LangChain-00A3E0?style=for-the-badge&logo=chainlink&logoColor=white" />
-	<br>
-	<img src="https://img.shields.io/badge/LangGraph-00856F?style=for-the-badge&logo=graph&logoColor=white" />
-	<img src="https://img.shields.io/badge/LLM-006400?style=for-the-badge&logo=openai&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white" />
+	<img src="https://img.shields.io/badge/ApacheHadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white" />
 </div>
 
 <br>
@@ -51,8 +51,6 @@
 <br>
 <div align=center>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheol2Y&layout=compact&theme=radical&hide_border=true">
-	<br><br>
-	<img src="https://github-profile-trophy.vercel.app/?username=cheol2Y&theme=onedark&column=7&no-frame=true">
 </div>
 
 <div align=center>
