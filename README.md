@@ -49,8 +49,8 @@
 </div>
 
 <br>
-<div align=center>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheol2Y&layout=compact&theme=radical&hide_border=true">
+<!-- <div align=center> -->
+<!-- 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheol2Y&layout=compact&theme=radical&hide_border=true"> -->
 </div>
 
 <div align=center>
